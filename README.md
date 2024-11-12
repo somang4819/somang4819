@@ -6,5 +6,5 @@
 
 
 ### ✍️ Blog
-[![Blog](https://img.shields.io/badge/-Your%20Blog-DD0B78?logo=blogger&logoColor=white&style=flat)]((https://blog.naver.com/6134aon))
+[![Blog](https://blog.naver.com/6134aon)
 
