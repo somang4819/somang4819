@@ -6,7 +6,6 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysm4819)](https://solved.ac/ysm4819/)  
 
 ### ✍️ Blog
 [![Blog](https://img.shields.io/badge/-Your%20Blog-DD0B78?logo=blogger&logoColor=white&style=flat)]((https://blog.naver.com/6134aon))
