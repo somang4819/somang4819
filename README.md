@@ -5,6 +5,5 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 
-### ✍️ Blog
-[![Blog](https://blog.naver.com/6134aon)
+### ✍️ Blog [Blog](https://blog.naver.com/6134aon)
 
